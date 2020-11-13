@@ -1,15 +1,45 @@
 body
 { background-color: teal;
-margin: zero;}
+text-align: center;}
 
 .navbar 
 { background-color: tomato;
 padding: 15px;
-text-align: center;
+text-align:right;
 }
 .nav-link {
-    background-color: wheat;
+    background-color: white;
     color: blue;
     padding: .5em;
     text-align: center;
+    font-weight: bold;
+
+
+}
+
+.input-items {
+ 
+    margin:auto;
+
+     
+    text-align: center;
+
+     width: 100%;
+    font-style: normal;
+}
+.submit {
+    
+    font-weight: bold; color: darkgray;
+    text-align: center;
+}
+.image { 
+    width: 5px
+    ;
+    height: 10px;
+    text-align: center;
+
+
+
+
+    
 }
